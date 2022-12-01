@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=BBBEFE&height=150&section=header&text=JUNG%20WON&fontSize=60)
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=BBBEFE&height=150&section=header&text=JUNG%20WON&fontSize=60) -->
 
 ### Hello!
 - 👩🏻‍💻 I'm currently working on 'Cabinet_of_Curiosities' </br>
@@ -14,7 +14,7 @@
 
 </br>
 
-![Footer](https://capsule-render.vercel.app/api?type=slice&color=BBBEFE&height=100&section=footer&text=THANK%20YOU&fontSize=20)
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=slice&color=BBBEFE&height=100&section=footer&text=THANK%20YOU&fontSize=20) -->
 
 <!--
 **ofgarden/ofgarden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
