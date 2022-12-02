@@ -1,8 +1,9 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=BBBEFE&height=150&section=header&text=JUNG%20WON&fontSize=60) -->
 
-### Hello!
-- 👩🏻‍💻 I'm currently looking for a new opportunity! </br>
-- 🌱 I'm currently learning 'advanced CSS' </br>
+### Hello, I'm ___
+- 👩🏻‍💻 Front End Developer with a background in art. From South Korea 🇰🇷, based in Germany 🇩🇪
+- 🔥 currently looking for a new opportunity! </br>
+- 🌱 currently learning 'advanced CSS' </br>
 
 #### Languages and Tools: <br/>
 <!-- FRONTEND -->
